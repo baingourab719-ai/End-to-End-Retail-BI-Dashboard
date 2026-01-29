@@ -28,4 +28,4 @@ This project transforms raw retail transaction data into actionable business int
 3. Explore the interactive filters (Slicers) to drill down into specific store locations or time periods.
 
 ---
-**Author:** [Gourab Bain] | [https://www.linkedin.com/in/gourab-bain-b5b852300/]
+**Author:** Gourab Bain  [https://www.linkedin.com/in/gourab-bain-b5b852300/]
